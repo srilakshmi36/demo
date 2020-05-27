@@ -1,0 +1,27 @@
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+table tr td,
+th {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
+
+contenteditable {
+  border: 2px solid blue;
+}
+button {
+  font-size: 16px;
+  padding:5px 15px;
+}
+.form-control {
+  font-size: 16px;
+}
+.form-control:focus {
+  font-size: 18px;
+}
